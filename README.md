@@ -11,7 +11,7 @@ VueChat is a chat application that uses: <br>
 -Vue Router for extra page routing and checking authentication within the app
 ### 📫 How to reach me: ...
 https://www.linkedin.com/in/malikkilgore/
-### Technologies and Tools
+### 🔧 Technologies and Tools
 <img src="https://img.shields.io/badge/OS-Linux-orange"></img> <img src="https://img.shields.io/badge/Language-JavaScript-yellow"></img> <img src="https://img.shields.io/badge/Language-CSS3-blue"></img> <img src="https://img.shields.io/badge/Language-HTML5-red"></img> 
 <br>
 <img src="https://img.shields.io/badge/Language-Vue.js-green"></img> <img src="https://img.shields.io/badge/Editor-VSCode-blue"></img> <img src="https://img.shields.io/badge/VCS-Git-red"></img> <img src="https://img.shields.io/badge/Database-Firebase-orange"></img> <img src="https://img.shields.io/badge/Language-Python-blue"></img>
