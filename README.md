@@ -1,3 +1,4 @@
+<img src="https://imgur.com/wJwpEqP.png"></img>
 ### Hey 👋
 My name is Malik Kilgore and I'm currently a Front-End developer. I've been teaching myself how to code through self-study for the past year or so. I orginally studied during my free time at my last job, but eventually left so I could put all of my efforts into becoming a developer.
 ### 🔭 I’m currently working on VueChat
