@@ -1,7 +1,7 @@
-<img src="https://imgur.com/wJwpEqP.png"></img>
+<img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Hey 👋
 My name is Malik Kilgore and I'm currently a Front-End developer. I've been teaching myself how to code through self-study for awhile now. I orginally studied during my free time at my last job, but eventually left so I could put all of my efforts into becoming a developer.
-## 🌱 I’m currently building a Calendar app!
+## 🌱 Currently working on multiple projects, and learning TypeScript!
 ## 📫 How to reach me
 https://www.linkedin.com/in/malikkilgore/
 ## 🔧 Technologies and Tools
