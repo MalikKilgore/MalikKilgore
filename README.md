@@ -1,6 +1,6 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Hey 👋
-My name is Malik Kilgore and I'm currently a Front-End developer. I've been teaching myself how to code through self-study for awhile now. I orginally studied during my free time at my last job, but eventually left so I could put all of my efforts into becoming a developer.
+My name is Malik Kilgore and I'm currently a Fullstack JavaScript developer. I've been teaching myself how to code through self-study for awhile now. I orginally studied during my free time at my last job, but eventually left so I could put all of my efforts into becoming a developer.
 ## 🌱 Currently working on multiple projects, and learning TypeScript!
 ## 📫 How to reach me
 https://www.linkedin.com/in/malikkilgore/
@@ -9,8 +9,8 @@ https://www.linkedin.com/in/malikkilgore/
 <br>
 <img src="https://img.shields.io/badge/Framework-Vue.js-green"></img> <img src="https://img.shields.io/badge/Editor-VSCode-blue"></img> <img src="https://img.shields.io/badge/VCS-Git-red"></img> <img src="https://img.shields.io/badge/Database-Firebase-orange"></img> <img src="https://img.shields.io/badge/Language-Python-blue"></img>
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikKilgore&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MalikKilgore&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikKilgore&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MalikKilgore&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MalikKilgore/MalikKilgore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
