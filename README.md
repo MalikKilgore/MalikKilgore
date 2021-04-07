@@ -1,10 +1,12 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
-## Hey there 👋
-My name is Malik Kilgore and I'm currently a Fullstack JavaScript developer, using MERN stack.
-After working as an IT Technician for a couple years, I felt it was time to broaden my skillset and delve into a field that I find genuinely enjoyable. I've taught myself TypeScript, HTML, SCSS, both Vue/React, Nodejs/Express MongoDB, and much more. The most exciting part of programming for me is solving new and interesting problems, no matter how big or small they are. I believe that whether I work on Frontend or Backend, I will be able to quickly provide value to whatever project or team I join.
-## 🌱 Currently applying for jobs and building more projects!
-I think I've got a solid tech stack already, so I'm currently working on refining my skills with data structures & algorithms.
-I'm also planning a new project. I like to use portfolio projects to teach myself something new.
+## Welcome to my GitHub 👋
+My name is Malik, and I'm an experienced IT Support Technician who has skills in customer support and user administration. 
+After a couple years in the industry I've learned how to program & build applications using 
+JavaScript, TypeScript, HTML, CSS, both Vue/React, Nodejs/Express, MongoDB, and more.
+## 🌱 Currently applying for jobs!
+I enjoy learning and growing within the tech field, and have a self-made programming skillset. 
+The most exciting part of programming for me is solving new and interesting problems, no matter how big or small they are. 
+I believe that whether I work on Frontend or Backend, I will be able to quickly provide value to whatever project or team I join.
 
 If you're interested in working with me, contact me using any of the methods below!
 
@@ -15,7 +17,7 @@ Connect with me on my <a href="https://www.linkedin.com/in/malikkilgore/">Linked
 <br>
 You can also use G-mail to <a href="https://mail.google.com/mail/?view=cm&fs=1&to=malik.kilgore97@gmail.com">contact me!</a>
 
-## 🔧 Some of the technologies and tools I use
+## 🔧 Some of the technologies & tools I use
 <img src="https://img.shields.io/badge/OS-Linux-orange"></img>
 <img src="https://img.shields.io/badge/OS-Windows10-brightgreen"></img>
 <img src="https://img.shields.io/badge/Language-JavaScript-yellow"></img>
@@ -37,7 +39,7 @@ You can also use G-mail to <a href="https://mail.google.com/mail/?view=cm&fs=1&t
 <img src="https://img.shields.io/badge/Misc-NginX-green"></img> 
 
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikKilgore&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MalikKilgore&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
