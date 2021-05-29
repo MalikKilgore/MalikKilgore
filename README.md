@@ -1,14 +1,11 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Welcome to my GitHub 👋
 My name is Malik, and I'm an experienced IT Support Technician who has skills in customer support and user administration. 
-After a couple years in the industry I've learned how to program & build applications using 
-JavaScript, TypeScript, HTML, CSS, both Vue/React, Nodejs/Express, MongoDB, and more.
-## 🌱 Currently applying for jobs!
-I enjoy learning and growing within the tech field, and have a self-made programming skillset. 
-The most exciting part of programming for me is solving new and interesting problems, no matter how big or small they are. 
-I believe that whether I work on Frontend or Backend, I will be able to quickly provide value to whatever project or team I join.
+After a couple years in the industry I've taught myself how to program & build applications using 
+JavaScript, TypeScript, HTML, CSS, Vue/React, Nodejs/Express, MongoDB, and more.
 
-If you're interested in working with me, contact me using any of the methods below!
+## 🌱 Currently building multiple side projects
+If you're interested in working with or hiring me, contact me using any of the methods below!
 
 ## 📫 How to reach me
 You can e-mail me directly at <a href="mailto:malik.kilgore97@gmail.com">malik.kilgore97@gmail.com</a>
