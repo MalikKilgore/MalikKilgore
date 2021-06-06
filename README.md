@@ -1,13 +1,14 @@
-<img src="https://imgur.com/Y1OMEE8.png"></img>
+<!--<img src="https://imgur.com/Y1OMEE8.png"></img> -->
 ## Welcome to my GitHub 👋
-My name is Malik, and I'm an experienced IT Support Technician who has skills in customer support and user administration. 
-After a couple years in the industry I've taught myself how to program & build applications using 
+I'm a previous IT Support Technician who has experience in customer support and user administration. 
+After a couple years in the industry I've taught myself how to program & build web and desktop applications using 
 JavaScript, TypeScript, HTML, CSS, Vue/React, Nodejs/Express, MongoDB, and more.
 
 ## 🌱 Currently building multiple side projects
-If you're interested in working with or hiring me, contact me using any of the methods below!
 
 ## 📫 How to reach me
+If you're interested in working with or hiring me, contact me using any of the methods below!
+<br>
 You can e-mail me directly at <a href="mailto:malik.kilgore97@gmail.com">malik.kilgore97@gmail.com</a>
 <br>
 Connect with me on my <a href="https://www.linkedin.com/in/malikkilgore/">LinkedIn</a>!
