@@ -12,7 +12,7 @@ I'm currently most familiar with the AWS stack, but I am open to using other pla
 I am open to a variety of roles within Cloud and engineering, so I'd love to have a conversation about any positions you think I'd be a fit for.
 <br>
 <br>
-<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532?source=linked_in_profile"><img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a>
+<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532?source=linked_in_profile"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a>
 
 ## 🔧 Some of the technologies & tools I use
 <img src="https://img.shields.io/badge/Framework-Vue-green"></img> 
