@@ -1,15 +1,15 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Welcome to my GitHub 👋
-I've recently committed to familiarizing myself with the AWS infrastructure and transitioning to Cloud. I've previously worked as an IT Support Technician & Frontend Developer. Over time I've gained skills in customer support, user administration, application development, and more.
+I've recently committed to familiarizing myself with the AWS infrastructure and transitioning to Cloud. I've previously worked as an Junior System Administrator & Software Engineer. Over time I've gained skills in technical support, user administration, application development, and more.
 
-Working as a freelance frontend developer during the pandemic has been a solid learning experience, whether it be learning how to structure my front-end projects and manage my time more effectively, or just learning new technologies for the job while improving on current skills. I was also exposed to working with REST API's and using React Context to manage external data.
+As I was working in tech support, I taught myself HTML, CSS, and Javascript so I could grow my skills and understanding within the tech space even more. I recently decided to go even further in this field by learning more about cloud technologies and how to build out infrastructure using them. I also have learned fundamental networking concepts along the way.
 
 ## Current Certifications 📜
-I recently received the AWS Certified Solutions Architect – Associate certification, and may go for more AWS certs in the future.
+This recently culminated in me receiving the AWS Solutions Architect - Associate certification! In terms of software development, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
+<br>
 Click the image below to verify my badge!
 ### 🌱 I'm also currently building some demo projects and looking to get hired!
-I'm currently most familiar with the AWS stack, but I am open to using other platforms as well. 
-I am open to a variety of roles within Cloud and engineering, so I'd love to have a conversation about any positions you think I'd be a fit for.
+If you believe I'd be a good addition to your team, I'd love to have a conversation!
 <br>
 <br>
 <a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a>
