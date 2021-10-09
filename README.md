@@ -1,15 +1,13 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Welcome to my GitHub 👋
-I've recently committed to familiarizing myself with the AWS infrastructure and transitioning to Cloud. I've previously worked as an Junior System Administrator & Software Engineer. Over time I've gained skills in technical support, user administration, application development, and more.
-
-As I was working in tech support, I taught myself HTML, CSS, and Javascript so I could grow my skills and understanding within the tech space even more. I recently decided to go even further in this field by learning more about cloud technologies and how to build out infrastructure using them. I also have learned fundamental networking concepts along the way.
+I've previously worked as an Junior System Administrator & Software Engineer. Over time I've gained skills in customer support, user administration, application development, and more. As I was working my previous role, I taught myself how to program so I could grow my skills and understanding within the tech space even more. I decided to go even further in this field by learning more about cloud technologies and how to build out infrastructure using them. 
 
 ## Current Certifications 📜
 This recently culminated in me receiving the AWS Solutions Architect - Associate certification! In terms of software development, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
 <br>
 Click the image below to verify my badge!
 ### 🌱 I'm also currently building some demo projects and looking to get hired!
-If you believe I'd be a good addition to your team, I'd love to have a conversation!
+If you believe I'd be a good addition to your team, I'd love to have a conversation.
 <br>
 <br>
 <a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a>
