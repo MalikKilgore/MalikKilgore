@@ -1,4 +1,3 @@
-<img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Welcome to my GitHub 👋
 I initially started out my career multiple tech support jobs. As I was working in tech support, I taught myself HTML, CSS, and Javascript to learn the fundamentals of programming and web development. I eventually decided to learn more about cloud technologies and how to build out infrastructure using them. I've also learned fundamental networking & security principles along the way.
 
