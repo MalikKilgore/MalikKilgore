@@ -1,9 +1,13 @@
 <img src="https://imgur.com/Y1OMEE8.png"></img>
 ## Welcome to my GitHub 👋
-I've previously worked as an Junior System Administrator & Software Engineer. Over time I've gained skills in customer support, user administration, application development, and more. As I was working my previous role, I taught myself how to program so I could grow my skills and understanding within the tech space even more. I decided to go even further in this field by learning more about cloud technologies and how to build out infrastructure using them. 
+I initially started out my career multiple tech support jobs. As I was working in tech support, I taught myself HTML, CSS, and Javascript to learn the fundamentals of programming and web development. I eventually decided to learn more about cloud technologies and how to build out infrastructure using them. I've also learned fundamental networking & security principles along the way.
 
 ## Current Certifications 📜
-This recently culminated in me receiving the AWS Solutions Architect - Associate certification! In terms of software development, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
+This resulted in me receiving the AWS Solutions Architect - Associate certification as proof of my growth. Attaining this certification has allowed me to enroll in a college program, where I am continuing my studies for what I believe is fundamental knowledge in the tech industry. 
+
+In terms of software development, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
+
+If you believe I'd be a good addition to your team, I'd love to have a conversation. Even though I am going through college, I am fully able to pursue full-time work thanks to the flexible schedule my program allows.
 <br>
 Click the image below to verify my badge!
 ### 🌱 I'm also currently building some demo projects and looking to get hired!
