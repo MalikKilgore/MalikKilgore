@@ -1,19 +1,16 @@
 ## Welcome to my GitHub 👋
-I initially started out my career multiple tech support jobs. As I was working in tech support, I taught myself HTML, CSS, and Javascript to learn the fundamentals of programming and web development. I eventually decided to learn more about cloud technologies and how to build out infrastructure using them. I've also learned fundamental networking & security principles along the way.
+I initially started out my career in multiple tech support jobs. As I was working in tech support, I taught myself HTML, CSS, and Javascript to learn the fundamentals of programming and web development. I eventually decided to learn more about cloud technologies and how to build out infrastructure using them. I've also learned fundamental networking & security principles through my college coursework.
+
+In terms of programming, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
 
 ## Current Certifications 📜
-This resulted in me receiving the AWS Solutions Architect - Associate certification as proof of my growth. Attaining this certification has allowed me to enroll in a college program, where I am continuing my studies for what I believe is fundamental knowledge in the tech industry. 
-
-In terms of software development, I’m currently familiar with a variety of languages and technologies including JavaScript/TypeScript, HTML, CSS, React, Node.js, and other miscellaneous development tools (Git/GitHub, Docker, etc.).
-
+Click the images below to verify my certifications!
+<br>
 If you believe I'd be a good addition to your team, I'd love to have a conversation. Even though I am going through college, I am fully able to pursue full-time work thanks to the flexible schedule my program allows.
 <br>
-Click the image below to verify my badge!
-### 🌱 I'm also currently building some demo projects and looking to get hired!
-If you believe I'd be a good addition to your team, I'd love to have a conversation.
 <br>
-<br>
-<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a>
+<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a> 
+<a href="https://www.credly.com/badges/d4ff73bd-8603-4ce1-b5c3-58749fe3e1bf/public_url"><img src="https://images.credly.com/size/220x220/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"></img></a>
 
 ## 🔧 Some of the technologies & tools I use
 <img src="https://img.shields.io/badge/Framework-Vue-green"></img> 
