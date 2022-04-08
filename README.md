@@ -9,8 +9,11 @@ Click the images below to verify my certifications!
 If you believe I'd be a good addition to your team, I'd love to have a conversation. Even though I am going through college, I am fully able to pursue full-time work thanks to the flexible schedule my program allows.
 <br>
 <br>
-<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></img></a> 
+<a href="https://www.credly.com/badges/aa685763-7e3c-4613-90c3-60abf0aaf532/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></img></a>
+<a href="https://www.credly.com/badges/23ca6af1-87b2-4678-9cde-e2ab1f654196/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></img></a>
+<br>
 <a href="https://www.credly.com/badges/d4ff73bd-8603-4ce1-b5c3-58749fe3e1bf/public_url"><img src="https://images.credly.com/size/220x220/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"></img></a>
+<a href="https://www.credly.com/badges/1c70cb9c-2981-433d-a3e0-e6b06ad2f28c/public_url"><img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"></img></a>
 
 ## 🔧 Some of the technologies & tools I use
 <img src="https://img.shields.io/badge/Framework-Vue-green"></img> 
