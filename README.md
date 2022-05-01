@@ -14,6 +14,7 @@ If you believe I'd be a good addition to your team, I'd love to have a conversat
 <br>
 <a href="https://www.credly.com/badges/d4ff73bd-8603-4ce1-b5c3-58749fe3e1bf/public_url"><img src="https://images.credly.com/size/220x220/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"></img></a>
 <a href="https://www.credly.com/badges/1c70cb9c-2981-433d-a3e0-e6b06ad2f28c/public_url"><img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"></img></a>
+<a href="https://www.credly.com/badges/469cb388-85b1-46c8-86c2-5246c9051b6d/public_url"><img src="https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></img></a>
 
 ## 🔧 Some of the technologies & tools I use
 <img src="https://img.shields.io/badge/Framework-Vue-green"></img> 
